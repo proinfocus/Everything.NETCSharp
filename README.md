@@ -1,5 +1,8 @@
 # Everything .NET C#
-Designing a course for whoever is interested to learn everything about .NET and C# which I presume takes about **9 months** to touch every things mentioned below:
+This repo is all about designing a course for everyone to learn everything about .NET and C# which I presume takes about **9 months** to touch every aspect mentioned below. I can share my real business experience on the platforms, tools, service providers and technologies as I have personally used them in several projects and implemented in my business one way or the other. I have about 20+ years of experience in building software, websites, mobile apps and business solutions for my clients mostly using Microsoft technologies, so is the :heart: for .NET and C#.
+
+## Best Practices and Patterns
+I believe whatever practices and patterns fulfil the requirements of the client in a minimal amount of time with good efficiency is the best approach. While doing so, you will definitely include and use a combination of DRY (Don't Repeat Yourself), SOLID (Single Responsibility, Open-Closed, Liskov Sustitution, Interface Segregation and Dependency Inversion) and KISS (Keep it simple, Stupid!). The project management methodologies can be anything. Whether it is AGILE or SCRUM, a good product in time matters.
 
 ## Course Roadmap
 The total duration will be **9 months** for the following course categories to be touched upon.
@@ -46,6 +49,7 @@ The total duration will be **9 months** for the following course categories to b
 - Console Apps
 - ASP.NET Core Web Apps
 - ASP.NET Core Web APIs
+- Class Library
 - Blazor Server
 - Blazor WebAssembly
 - Windows Forms
@@ -53,3 +57,4 @@ The total duration will be **9 months** for the following course categories to b
 - MAUI / Xamarin Forms
 - SQL
 - Json / XML
+- SignalR
