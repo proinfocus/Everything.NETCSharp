@@ -40,7 +40,7 @@ The total duration will be **9 months** for the following course categories to b
 - LetsEncrypt, CertifyTheWeb
 - NuGet, Docker, File Zilla
 - Git, GitHub, Azure DevOps
-- Netlify, GCP, Azure, AWS
+- GCP, Azure, AWS, Netlify
 
 ## Technologies
 - HTML
