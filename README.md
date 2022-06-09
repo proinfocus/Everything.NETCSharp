@@ -59,4 +59,4 @@ The total duration will be **10 months** for the following course categories to 
 - SQL
 - Json / XML
 - YAML / YML
-- SignalR
+- SignalR / gRPC / WCF / Web Services
