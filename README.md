@@ -1,4 +1,4 @@
-# Everything .NET C Sharp
+# Everything .NET C#
 This repo is all about designing a course for everyone to learn everything about .NET and C# which I presume takes about **10 months** to touch every aspect mentioned below. I can share my real business experience on the platforms, tools, service providers and technologies as I have personally used them in several projects and implemented in my business one way or the other. I have about **20+ years** of experience in building software, websites, mobile apps and business solutions for my clients mostly using Microsoft technologies, so is the :heart: for .NET and C#.
 
 ## Best Practices and Patterns
