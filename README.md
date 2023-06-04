@@ -18,7 +18,7 @@ The total duration will be **10 months** for the following course categories to 
 |1 week|Libraries|building NuGet packages and publishing it to NuGet.org|
 |1 month|Basics of RDBMS|know how to setup, connect, work and maintain - SQLite, SQLServer|
 |1 month|Basics of NoSQL DBs|know how to setup, connect, work and maintain - MongoDB, Google Firebase|
-|2 weeks|Hosting|know how to hosting websites on Windows IIS and Linux NGINX including setting-up of SSL certificates for websites.|
+|2 weeks|Hosting|know how to host websites on Windows IIS and Linux NGINX including setting-up of SSL certificates for websites.|
 |2 weeks|Source control|know how to use Git and GitHub.|
 |1 month|Containers|learning more about running apps in containers using Docker.|
 
