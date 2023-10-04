@@ -34,10 +34,10 @@ The total duration will be **10 months** for the following course categories to 
 - Visual Studio for Windows
 - Visual Studio for Mac
 - Visual Studio Code
-- SQL Server Express Edition with SSMS
-- SQLite, MySql
+- SQL Server Express Edition with SSMS, Azure Data Studio, pgAdmin
+- SQLite, MySql, Postgres
 - Adobe XD, Figma
-- Postman, Fiddler
+- Postman, Fiddler, Insomnia
 - LetsEncrypt, CertifyTheWeb
 - NuGet, Docker, File Zilla
 - Git, GitHub, Azure DevOps
@@ -56,7 +56,7 @@ The total duration will be **10 months** for the following course categories to 
 - Windows Forms
 - WPF
 - MAUI / Xamarin Forms
-- SQL
+- SQL, Linq
 - Json / XML
 - YAML / YML
 - SignalR / gRPC / WCF / Web Services
